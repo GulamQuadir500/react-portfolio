@@ -2,6 +2,7 @@ import FoodImg from '../assets/projects/food.png'
 import ResumeImg from '../assets/projects/resume.png'
 import GetYoutubeImg from '../assets/projects/Getyoutube.png'
 import NumberGuessImg from '../assets/projects/numberGuess.png'
+import CryptoImg from '../assets/projects/crypto.png'
 
 export const data = [
     {
@@ -32,6 +33,12 @@ export const data = [
         github: "https://github.com/GulamQuadir500/Number-Guessing-Game",
         live: "https://gulamquadir500.github.io/Number-Guessing-Game/",
     },
-
+{
+    id: 5,
+    name: "React JS | CSS | CoinGecko API",
+    image: CryptoImg,
+    github: "https://github.com/GulamQuadir500/CryptoPlace",
+    live: "https://crypto-place-tan.vercel.app/",
+}
 
 ]

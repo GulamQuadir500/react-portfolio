@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 const resume = () => {
     return (
         <div name='resume' className='w-full md:h-screen bg-[#0a192f]'>
-        
+
 
             <div className='max-w-[940px] mx-auto p-2 pt-[120px]'>
                 <h2 className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>Resume</h2>
@@ -12,7 +12,7 @@ const resume = () => {
                     <h2 className='text-center text-black font-bold'>Gulam Quadir Parwez</h2>
                     <div className='flex'>
                         <a
-                            href='https://www.linkedin.com/in/gulam-quadir-parwez-5694a122a/'
+                            href='https://www.linkedin.com/in/gulam-quadir/'
                             target='_blank'
                             rel='noreferrer'
                         >
