@@ -28,7 +28,7 @@ export const data = [
     },
     {
         id: 4,
-        name: "React JS Application",
+        name: "HTML | CSS | JAVASCRIPT",
         image: NumberGuessImg,
         github: "https://github.com/GulamQuadir500/Number-Guessing-Game",
         live: "https://gulamquadir500.github.io/Number-Guessing-Game/",
